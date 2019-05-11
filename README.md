@@ -1,5 +1,5 @@
 # hq
-The TileGrid headquarters
+The Tabular Maps headquarters
 
 ![slide](slide.jpg)
 
