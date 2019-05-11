@@ -14,3 +14,6 @@ The Tabular Maps headquarters
 - Taisuke Fukuno @taisukef
 - Taro Matsuzawa @smellman
 - Yuzo Matsuzawa @frogcat
+
+# Twitter
+https://twitter.com/tabularmaps
